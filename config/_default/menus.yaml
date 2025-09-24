@@ -1,0 +1,61 @@
+leftnav:
+- identifier: 8ce1edb6-2a79-fe96-6ba1-85c762ccd632
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 122a3798-c6a0-d975-65e4-8cba4f190561
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 8d88c42b-202c-a7b3-a74b-b2122fd63f82
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: bbcaa4eb-c3ac-1be6-2890-752ec8eed7c9
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 40
+- identifier: 36cef9a4-d20e-0eb9-074b-f156d59b4dc2
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 50
+- identifier: dd46f742-95d8-d6b4-e0c8-d6e0c44ee778
+  name: Assignment 1
+  pageRef: /pages/assignments/assignment-1
+  parent: 36cef9a4-d20e-0eb9-074b-f156d59b4dc2
+  weight: 60
+- identifier: 562565d9-2ed4-84d5-ebc1-6cbc870d0e66
+  name: Assignment 2
+  pageRef: /pages/assignments/assignment-2
+  parent: 36cef9a4-d20e-0eb9-074b-f156d59b4dc2
+  weight: 70
+- identifier: a06330a9-c9c2-526a-84f9-8f8511337c19
+  name: Assignment 3
+  pageRef: /pages/assignments/assignment-3
+  parent: 36cef9a4-d20e-0eb9-074b-f156d59b4dc2
+  weight: 80
+- identifier: b4171b45-c636-a7e1-1bea-17504d6a2cfd
+  name: Assignment 4
+  pageRef: /pages/assignments/assignment-4
+  parent: 36cef9a4-d20e-0eb9-074b-f156d59b4dc2
+  weight: 90
+- identifier: fff704b9-90cb-d62e-7a37-497fab17ff14
+  name: Assignment 5
+  pageRef: /pages/assignments/assignment-5
+  parent: 36cef9a4-d20e-0eb9-074b-f156d59b4dc2
+  weight: 100
+- identifier: ea057755-2c94-f25e-44bf-c1e8d06ea32b
+  name: Assignment 6
+  pageRef: /pages/assignments/assignment-6
+  parent: 36cef9a4-d20e-0eb9-074b-f156d59b4dc2
+  weight: 110
+- identifier: 2791812d-18f6-5dad-8987-b1e38825e1ee
+  name: Assignment 7
+  pageRef: /pages/assignments/assignment-7
+  parent: 36cef9a4-d20e-0eb9-074b-f156d59b4dc2
+  weight: 120
+- identifier: 0c52d360-99cb-1f3f-18e3-8d3b33b44e92
+  name: Assignment 8
+  pageRef: /pages/assignments/assignment-8
+  parent: 36cef9a4-d20e-0eb9-074b-f156d59b4dc2
+  weight: 130
