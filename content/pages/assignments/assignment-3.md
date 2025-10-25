@@ -16,4 +16,4 @@ This is an individual assignment.
 Assignment 3: Hello Wallet Case
 -------------------------------
 
-After reading {{% resource_link "25332906-623c-4ffc-8785-d61d5e97a273" "the Hello Wallet case" %}}, please write (at most) one page on the following: pick one behavioral bias covered in class or readings and discuss how it creates opportunities for Hello Wallet.
+After reading [the Hello Wallet case](https://hbr.org/product/hellowallet/F275-PDF-ENG), please write (at most) one page on the following: pick one behavioral bias covered in class or readings and discuss how it creates opportunities for Hello Wallet.

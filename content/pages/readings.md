@@ -40,19 +40,19 @@ Introduction and overview of consumer financial markets
 
 {{< tdclose >}}
 {{< tdopen >}}
-Tufano, Peter, Andrea Ryan, and Daniel Schneider, "An Introduction to Consumer Credit" Harvard Business School Note No. 9-209-107. \[Available at {{% resource_link "9da84767-2634-40e1-a05f-099a54eb23fe" "SSRN" %}}.\]
+Tufano, Peter, Andrea Ryan, and Daniel Schneider, "An Introduction to Consumer Credit" Harvard Business School Note No. 9-209-107. \[Available at [SSRN](https://ssrn.com/abstract=1407703).\]
 
-Zachary Karabell, "{{% resource_link "c4c89292-93ff-4931-a469-032d529a79ad" "The Uberization of Money" %}}," _Wall Street Journal_, Nov 6, 2015.
+Zachary Karabell, "[The Uberization of Money](https://www.wsj.com/articles/the-uberization-of-finance-1446835102)," _Wall Street Journal_, Nov 6, 2015.
 
-Randall Smith, "{{% resource_link "a58bfb13-ab0c-45d0-9868-2c5f8eec64a8" "Challenged by Upstarts, Lenders Try New Strategy: Cooperation" %}}," _New York Times_, Jan 7, 2016.
+Randall Smith, "[Challenged by Upstarts, Lenders Try New Strategy: Cooperation](https://dealbook.nytimes.com/2015/01/07/challenged-by-upstarts-lenders-try-new-strategy-cooperation/)," _New York Times_, Jan 7, 2016.
 
 ### Optional
 
-Campbell, John Y. "{{% resource_link "bbd7d4bf-0f63-42d3-b997-3a733110028d" "Household Finance" %}}." _Journal of Finance_ 61, No. 4 (2006): 1553-1604.
+Campbell, John Y. "[Household Finance](https://doi.org/10.1111/j.1540-6261.2006.00883.x)." _Journal of Finance_ 61, No. 4 (2006): 1553-1604.
 
-Chapter 6 in "Household Finance," World Bank, {{% resource_link "b588d99c-8249-4788-a536-8f6140dd25fb" "Mind Society and Behavior, World Development Report 2015" %}}.
+Chapter 6 in "Household Finance," World Bank, [Mind Society and Behavior, World Development Report 2015](http://www.worldbank.org/en/publication/wdr2015).
 
-Campbell, John Y., Howell E. Jackson, Brigitte C. Madrian and Peter Tufano. "{{% resource_link "481d4327-fa36-41c7-82e5-6b9e49c871a6" "Consumer Financial Protection" %}}." _Journal of Economic Perspectives_ 25, No. 1 (2011): 91-114.
+Campbell, John Y., Howell E. Jackson, Brigitte C. Madrian and Peter Tufano. "[Consumer Financial Protection](https://www.aeaweb.org/articles?id=10.1257/jep.25.1.91)." _Journal of Economic Perspectives_ 25, No. 1 (2011): 91-114.
 
 
 {{< tdclose >}}
@@ -82,7 +82,7 @@ Textbook summary of traditional economic model: Chapters 4.1 and 4.A in Abel, A
 
 Chapter 2 in Ang, Andrew, _Asset Management_, Oxford University Press. ISBN: 978-0199959327.
 
-Carroll, Christopher D., "{{% resource_link "24535ccd-dfe4-48df-8f99-2e0d82da6c64" "Solution Methods for Microeconomic Dynamic Stochastic Optimization Problems" %}}."
+Carroll, Christopher D., "[Solution Methods for Microeconomic Dynamic Stochastic Optimization Problems](http://www.econ2.jhu.edu/people/ccarroll/SolvingMicroDSOPs/)."
 
 
 {{< tdclose >}}
@@ -108,17 +108,17 @@ How people _do_ behave: behavioral biases, financial decisions, and markets
 
 Chapter 4 in Wilkison, N. and M. Klaes, _An Introduction to Behavioral Economics_, 2nd Edition, Revised, 2012. ISBN: 978-0230291461.
 
-"{{% resource_link "313f638b-dce8-4384-af6d-a016c6637eb7" "Small Changes, Real Impact: Applying Behavioral Economics in Asset-building Programs" %}}," A brief from the BETA Project, December 2013.
+"[Small Changes, Real Impact: Applying Behavioral Economics in Asset-building Programs](https://prosperitynow.org/resources/small-changes-real-impact-applying-behavioral-economics-asset-building-programs-brief)," A brief from the BETA Project, December 2013.
 
 ### Optional
 
 Chapters 6 and 8 in Wilkison, N. and M. Klaes, _An Introduction to Behavioral Economics_, 2nd Edition, Revised, 2012. ISBN: 978-0230291461.
 
-Cohen, J. "{{% resource_link "72f62dba-b44c-4100-915c-2235ea279126" "The Vulcanization of the Human Brain: A Neural Perspective on Interactions Between Cognition and Emotion" %}}." _Journal of Economic Perspectives_ 19, No. 4 (2005): 3–24.
+Cohen, J. "[The Vulcanization of the Human Brain: A Neural Perspective on Interactions Between Cognition and Emotion](https://www.aeaweb.org/articles?id=10.1257/089533005775196750)." _Journal of Economic Perspectives_ 19, No. 4 (2005): 3–24.
 
-Thaler, Richard. "{{% resource_link "e5709e90-e660-4d96-90ca-2cfb8fd5a2ab" "Mental Accounting Matters" %}}." _Journal of Behavioral Decision Making_, 12(1999): 183-206.
+Thaler, Richard. "[Mental Accounting Matters](https://doi.org/10.1002/(SICI)1099-0771(199909)12:3<183::AID-BDM318>3.0.CO;2-F)." _Journal of Behavioral Decision Making_, 12(1999): 183-206.
 
-Tversky, A. and D. Kahneman. "{{% resource_link "13304f02-ebcb-444a-9f94-43b1f2ef67c0" "The Framing of Decisions and the Psychology of Choice" %}}." _Science_ 211 (1981): 453–458.
+Tversky, A. and D. Kahneman. "[The Framing of Decisions and the Psychology of Choice](http://science.sciencemag.org/content/211/4481/453)." _Science_ 211 (1981): 453–458.
 
 
 {{< tdclose >}}
@@ -142,7 +142,7 @@ Financial coaching and behavioral economics
 {{< tdopen >}}
 
 
-Schoar, Antoinette and Piyush Tantia, {{% resource_link "1f95e4f3-1bb4-41bf-9969-3ffef1c0e85c" "\"The Financial Health Check: A Behavioral Approach to Financial Coaching\" (PDF)" %}}, New American Foundation, March 2014.
+Schoar, Antoinette and Piyush Tantia, ["The Financial Health Check: A Behavioral Approach to Financial Coaching" (PDF)](https://www.ideas42.org/wp-content/uploads/2015/05/The_Financial_Health_Check-1.pdf), New American Foundation, March 2014.
 
 Chapter 6 in Thaler, Richard H. and Cass R. Sunstein, _Nudge: Improving Decisions About Health, Wealth, and Happiness_, Yale University Press, 2008. ISBN: 978-0143115267.
 
@@ -168,7 +168,7 @@ Selling personal financial advice
 {{< tdopen >}}
 
 
-Schifrin, Debra and John Beshears, "{{% resource_link "25332906-623c-4ffc-8785-d61d5e97a273" "Hello Wallet" %}}," Harvard Business School Case No. F-275, February 10, 2011.
+Schifrin, Debra and John Beshears, "[Hello Wallet](https://hbr.org/product/hellowallet/F275-PDF-ENG)," Harvard Business School Case No. F-275, February 10, 2011.
 
 
 {{< tdclose >}}
@@ -194,7 +194,7 @@ Risk-based pricing in consumer credit: credit cards and regulation
 
 Orszag, Jonathan and Susan Manning, "An Economic Assessment of Regulating Credit Card Fees and Interest Rates," 2007. Sections I and II, pp. 1-28.
 
-Frank, Joshua, "{{% resource_link "fc8bbe3a-0b12-4c7a-bcc6-c8348219abd4" "Predatory Credit Card Lending," %}}" Center for Responsible Lending (CRL), May 8, 2012, pp. 1-14.
+Frank, Joshua, "[Predatory Credit Card Lending,](https://www.responsiblelending.org/research-publication/predatory-credit-card-unsafe-unsound)" Center for Responsible Lending (CRL), May 8, 2012, pp. 1-14.
 
 
 {{< tdclose >}}
@@ -218,7 +218,7 @@ Consumer insurance markets
 {{< tdopen >}}
 
 
-Cole, Shawn A. and Peter Tufano, {{% resource_link "83e08a75-3a85-40aa-987b-3f3c8ba44cc7" "BASIX" %}}, Harvard Business School Case No. 9-207-099, February 2007. (Revised October 2007.)
+Cole, Shawn A. and Peter Tufano, [BASIX](https://www.hbs.edu/faculty/Pages/item.aspx?num=34122), Harvard Business School Case No. 9-207-099, February 2007. (Revised October 2007.)
 
 
 {{< tdclose >}}
@@ -242,7 +242,7 @@ Peer to peer lending
 {{< tdopen >}}
 
 
-Stone, C. A. and Anne Zissu, Tufano, Peter, Howell Jackson and Andrea Ryan, "{{% resource_link "58abebb5-948b-47fa-88f7-59c6ed508c3b" "Lending Club" %}}," Harvard Business School Case No. 9-210-052, December. 17, 2010
+Stone, C. A. and Anne Zissu, Tufano, Peter, Howell Jackson and Andrea Ryan, "[Lending Club](https://www.hbs.edu/faculty/Pages/item.aspx?num=38450)," Harvard Business School Case No. 9-210-052, December. 17, 2010
 
 
 {{< tdclose >}}
@@ -314,7 +314,7 @@ Fintech: Bitcoin and payment technologies overview and discussion
 {{< tdopen >}}
 
 
-Velde, François R. “{{% resource_link "7b6e0e50-196b-4fc3-88d3-65d6489b955c" "Bitcoin: A Primer" %}}” _Chicago Fed Letter_, No. 317 (December 2013).
+Velde, François R. “[Bitcoin: A Primer](https://www.chicagofed.org/publications/chicago-fed-letter/2013/december-317)” _Chicago Fed Letter_, No. 317 (December 2013).
 
 
 {{< tdclose >}}
